@@ -18,9 +18,7 @@ remove production contracts, interfaces, and generated metadata
 fix broken script checks
 
 rm plan
-
 fix snapshots
-
 undo interface check changes
 
 undo exclusion changes
@@ -28,11 +26,12 @@ undo exclusion changes
 undo exclusion changes
 fix test-validation script
 clean test
+
 fix deploy script
 address pr feedback
 broadcast addrs...
-
-
+fix typo
+add deployment notes
 
 
 
