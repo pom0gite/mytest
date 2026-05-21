@@ -1,7 +1,7 @@
 init project with hardhat
 setup project structure
-
-
+add basic README
+configure eslint and prettier
 
 
 
