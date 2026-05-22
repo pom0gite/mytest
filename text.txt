@@ -3,7 +3,7 @@ setup project structure
 add basic README
 configure eslint and prettier
 add gitignore
-
+install dependencies
 
 
 
