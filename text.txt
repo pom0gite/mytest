@@ -4,8 +4,8 @@ add basic README
 configure eslint and prettier
 add gitignore
 install dependencies
-
-
+setup hardhat config
+add base network config
 
 
 
