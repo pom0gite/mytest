@@ -6,8 +6,8 @@ add gitignore
 install dependencies
 setup hardhat config
 add base network config
-
-
+create contracts folder
+initial commit cleanup
 
 
 
