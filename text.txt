@@ -9,8 +9,8 @@ add base network config
 create contracts folder
 initial commit cleanup
 
-
-
+add Token.sol skeleton
+import openzeppelin ERC20
 
 
 
