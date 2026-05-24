@@ -14,7 +14,7 @@ import openzeppelin ERC20
 implement basic ERC20 constructor
 add initial supply logic
 add mint function
-
+restrict mint to owner
 
 
 
