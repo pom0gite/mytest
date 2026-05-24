@@ -12,8 +12,8 @@ initial commit cleanup
 add Token.sol skeleton
 import openzeppelin ERC20
 implement basic ERC20 constructor
-
-
+add initial supply logic
+add mint function
 
 
 
