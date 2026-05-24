@@ -15,8 +15,8 @@ implement basic ERC20 constructor
 add initial supply logic
 add mint function
 restrict mint to owner
-
-
+add burn function
+write basic token tests
 
 
 
