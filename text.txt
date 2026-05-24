@@ -17,7 +17,8 @@ add mint function
 restrict mint to owner
 add burn function
 write basic token tests
-
-
+fix test issues
+refactor token contract
++++
 
 
