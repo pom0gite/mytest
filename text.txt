@@ -20,5 +20,17 @@ write basic token tests
 fix test issues
 refactor token contract
 +++
+add events for mint and burn
+
+
+
+
+
+
+
+
+
+
+
 
 
