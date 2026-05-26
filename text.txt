@@ -8,7 +8,7 @@ setup hardhat config
 add base network config
 create contracts folder
 initial commit cleanup
-
+*
 add Token.sol skeleton
 import openzeppelin ERC20
 implement basic ERC20 constructor
@@ -28,8 +28,9 @@ add edge case tests
 fix failing edge tests
 refactor test structure
 add deploy script for token
-
-
+test deployment locally
+update README with token info
+***
 
 
 
