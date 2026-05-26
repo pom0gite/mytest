@@ -26,8 +26,8 @@ optimize gas usage in token
 add comments to token contract
 add edge case tests
 fix failing edge tests
-
-
+refactor test structure
+add deploy script for token
 
 
 
