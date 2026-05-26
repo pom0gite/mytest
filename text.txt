@@ -24,8 +24,8 @@ add events for mint and burn
 improve access control
 optimize gas usage in token
 add comments to token contract
-
-
+add edge case tests
+fix failing edge tests
 
 
 
