@@ -31,7 +31,7 @@ add deploy script for token
 test deployment locally
 update README with token info
 ***
-
-
+add NFT.sol skeleton
+import ERC721 from openzeppelin
 
 
