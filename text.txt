@@ -33,5 +33,5 @@ update README with token info
 ***
 add NFT.sol skeleton
 import ERC721 from openzeppelin
-
+implement NFT constructor
 
