@@ -39,8 +39,9 @@ add tokenURI logic
 add baseURI setter
 restrict mint access
 write NFT tests
-
-
+fix NFT mint bug
+refactor NFT contract
+++
 
 
 
