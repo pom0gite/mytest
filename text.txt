@@ -36,8 +36,8 @@ import ERC721 from openzeppelin
 implement NFT constructor
 add mint NFT function
 add tokenURI logic
-
-
+add baseURI setter
+restrict mint access
 
 
 
