@@ -44,7 +44,7 @@ refactor NFT contract
 ++
 add Faucet.sol skeleton
 connect faucet to ERC20 token
-
+implement claim function
 
 
 
