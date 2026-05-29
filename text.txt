@@ -43,7 +43,7 @@ fix NFT mint bug
 refactor NFT contract
 ++
 add Faucet.sol skeleton
-
+connect faucet to ERC20 token
 
 
 
