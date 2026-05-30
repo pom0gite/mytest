@@ -47,7 +47,7 @@ connect faucet to ERC20 token
 implement claim function
 add claim cooldown logic
 store last claim timestamp
-
+write faucet tests
 
 
 
