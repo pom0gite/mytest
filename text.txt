@@ -45,8 +45,8 @@ refactor NFT contract
 add Faucet.sol skeleton
 connect faucet to ERC20 token
 implement claim function
-
-
+add claim cooldown logic
+store last claim timestamp
 
 
 
