@@ -50,7 +50,7 @@ store last claim timestamp
 write faucet tests
 fix cooldown bug
 add owner withdraw function
-
+refactor faucet logic
 
 
 
