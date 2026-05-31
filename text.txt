@@ -51,6 +51,8 @@ write faucet tests
 fix cooldown bug
 add owner withdraw function
 refactor faucet logic
+update README with faucet usage
++++
 
 
 
