@@ -53,8 +53,8 @@ add owner withdraw function
 refactor faucet logic
 update README with faucet usage
 +++
-
-
+add Voting.sol skeleton
+define proposal struct
 
 
 
