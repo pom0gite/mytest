@@ -1,1 +1,345 @@
+{
+  "meta": {
+    "title": "Base Azul Wrapped",
+    "subtitle": "An engineering wrap on Base's first independent hardfork",
+    "blog_post": "https://blog.base.dev/introducing-base-azul",
+    "blog_published": "2026-04-21",
+    "mainnet_activation": "2026-05-28",
+    "release_tag": "v0.9.0",
+    "release_tag_date": "2026-05-20",
+    "release_published": "2026-05-21",
+    "window_start": "2026-02-18",
+    "window_end": "2026-05-20",
+    "window_label": "Feb 18, 2026 → v0.9.0",
+    "days_in_window": 92,
+    "primary_repo": "base/base (a.k.a. base/node-reth — the public azul monorepo)",
+    "comparison_repos": ["cb/base (internal infra)", "cb/base-routing"]
+  },
 
+  "headline_numbers": {
+    "commits": 1767,
+    "pull_requests_public": 1575,
+    "pull_requests_referenced": 1441,
+    "insertions": 738634,
+    "deletions": 371319,
+    "net_lines": 367315,
+    "files_touched": 18291,
+    "rust_loc_at_v090": 223124,
+    "rust_files_at_v090": 1382,
+    "total_files_at_v090": 1965,
+    "total_code_lines_at_v090": 366575,
+    "avg_commits_per_day": 12.6,
+    "avg_prs_per_day": 11.3,
+    "avg_loc_added_per_day": 5276
+  },
+
+  "language_breakdown_at_v090": [
+    { "language": "Rust",     "code": 223124, "files": 1382, "comments": 10465, "blanks": 37168 },
+    { "language": "JSON",     "code": 126056, "files": 11,   "comments": 0,     "blanks": 1 },
+    { "language": "TOML",     "code": 6557,   "files": 142,  "comments": 659,   "blanks": 1081 },
+    { "language": "Shell",    "code": 1597,   "files": 22,   "comments": 213,   "blanks": 313 },
+    { "language": "YAML",     "code": 1499,   "files": 13,   "comments": 60,    "blanks": 66 },
+    { "language": "SVG",      "code": 1475,   "files": 5,    "comments": 1,     "blanks": 0 },
+    { "language": "BASH",     "code": 761,    "files": 2,    "comments": 7,     "blanks": 136 },
+    { "language": "Just",     "code": 610,    "files": 9,    "comments": 191,   "blanks": 138 },
+    { "language": "HEX",      "code": 577,    "files": 31,   "comments": 0,     "blanks": 5 },
+    { "language": "Solidity", "code": 391,    "files": 10,   "comments": 56,    "blanks": 84 },
+    { "language": "Python",   "code": 310,    "files": 3,    "comments": 9,     "blanks": 63 },
+    { "language": "TypeScript","code": 252,   "files": 2,    "comments": 0,     "blanks": 28 },
+    { "language": "SQL",      "code": 179,    "files": 13,   "comments": 69,    "blanks": 41 },
+    { "language": "TSX",      "code": 136,    "files": 3,    "comments": 0,     "blanks": 25 },
+    { "language": "Dockerfile","code": 95,    "files": 2,    "comments": 112,   "blanks": 25 },
+    { "language": "Markdown", "code": 0,      "files": 201,  "comments": 13582, "blanks": 5881 }
+  ],
+
+  "commits_by_month": [
+    { "month": "2026-01", "commits": 206 },
+    { "month": "2026-02", "commits": 517 },
+    { "month": "2026-03", "commits": 553 },
+    { "month": "2026-04", "commits": 350 },
+    { "month": "2026-05", "commits": 142 }
+  ],
+
+  "prs_by_month_public": [
+    { "month": "2026-01", "prs": 170 },
+    { "month": "2026-02", "prs": 208 },
+    { "month": "2026-03", "prs": 572 },
+    { "month": "2026-04", "prs": 411 },
+    { "month": "2026-05", "prs": 214 }
+  ],
+
+  "commit_types": [
+    { "type": "chore",    "count": 503 },
+    { "type": "fix",      "count": 442 },
+    { "type": "feat",     "count": 419 },
+    { "type": "refactor", "count": 108 },
+    { "type": "docs",     "count": 41  },
+    { "type": "test",     "count": 30  },
+    { "type": "perf",     "count": 23  },
+    { "type": "ci",       "count": 15  }
+  ],
+
+  "pr_types_public": [
+    { "type": "chore",    "count": 421 },
+    { "type": "fix",      "count": 414 },
+    { "type": "feat",     "count": 353 },
+    { "type": "refactor", "count": 131 },
+    { "type": "docs",     "count": 42  },
+    { "type": "backport", "count": 25  },
+    { "type": "perf",     "count": 25  },
+    { "type": "test",     "count": 20  },
+    { "type": "ci",       "count": 10  }
+  ],
+
+  "top_contributors": [
+    { "name": "Andreas Bigger",  "handle": "refcell",      "x_handle": "andreaslbigger", "prs_public": 554, "commits": 485, "insertions": 212874, "deletions": 84572, "files": 8110 },
+    { "name": "Danyal Prout",    "handle": "danyalprout",  "x_handle": "danyalprout",    "prs_public": 244, "commits": 229, "insertions": 93655,  "deletions": 116493, "files": 3482 },
+    { "name": "Jack Chuma",      "handle": "jackchuma",    "x_handle": "jackchuma",      "prs_public": 133, "commits": 138, "insertions": 75677,  "deletions": 15754, "files": 1079 },
+    { "name": "Francis Li",      "handle": "0x00101010",   "x_handle": "0xFrancisLi",    "prs_public": 127, "commits": 129, "insertions": 23735,  "deletions": 45688, "files": 1043 },
+    { "name": "Niran Babalola",  "handle": "niran",        "x_handle": "niran",          "prs_public": 68,  "commits": 54,  "insertions": 12591,  "deletions": 2650,  "files": 267 },
+    { "name": "Julian Meyer",    "handle": "meyer9",       "x_handle": "jmeyer2k",       "prs_public": 67,  "commits": 67,  "insertions": 16441,  "deletions": 6828,  "files": 410 },
+    { "name": "Mihir Wadekar",   "handle": "mw2000",       "x_handle": "that1nerdy",     "prs_public": 66,  "commits": 82,  "insertions": 39402,  "deletions": 58579, "files": 922 },
+    { "name": "Leopold Joy",     "handle": "leopoldjoy",   "x_handle": "leopoldjoy",     "prs_public": 55,  "commits": 71,  "insertions": 25755,  "deletions": 8017,  "files": 440 },
+    { "name": "William Law",     "handle": "wlawt",        "x_handle": "wlaw_",          "prs_public": 46,  "commits": 42,  "insertions": 6863,   "deletions": 1954,  "files": 248 },
+    { "name": "Haardik",         "handle": "haardikk21",   "x_handle": "0xboneyboi",  "prs_public": 37,  "commits": 31,  "insertions": 12914,  "deletions": 2485,  "files": 250 },
+    { "name": "Brian Bland",     "handle": "BrianBland",   "x_handle": "brianisbland",   "prs_public": 19,  "commits": 24,  "insertions": 23920,  "deletions": 3426,  "files": 121 },
+    { "name": "Kaley Chicoine",  "handle": "kmchicoine",   "prs_public": 15,  "commits": 15,  "insertions": 9453,   "deletions": 2009,  "files": 224 },
+    { "name": "Taehoon Kim",     "handle": "taehoon",      "prs_public": 0,   "commits": 76,  "insertions": 9254,   "deletions": 8001,  "files": 325, "external": true, "org": "Succinct" }
+  ],
+
+  "component_breakdown": [
+    { "component": "crates/proof",       "insertions": 201459, "deletions": 130589, "label": "Proof System (TEE + ZK)" },
+    { "component": "crates/consensus",   "insertions": 124072, "deletions": 96145,  "label": "Consensus Client" },
+    { "component": "crates/execution",   "insertions": 114979, "deletions": 78506,  "label": "Execution Client" },
+    { "component": "crates/flashblocks", "insertions": 111115, "deletions": 110502, "label": "Flashblocks" },
+    { "component": "crates/builder",     "insertions": 78878,  "deletions": 46595,  "label": "Builder" },
+    { "component": "crates/succinct",    "insertions": 59393,  "deletions": 7709,   "label": "ZK / Succinct" },
+    { "component": "crates/infra",       "insertions": 58903,  "deletions": 37699,  "label": "Infra" },
+    { "component": "crates/alloy",       "insertions": 30609,  "deletions": 24521,  "label": "Alloy Types" },
+    { "component": "crates/client",      "insertions": 31235,  "deletions": 21694,  "label": "Client" },
+    { "component": "crates/batcher",     "insertions": 21652,  "deletions": 16368,  "label": "Batcher" },
+    { "component": "crates/utilities",   "insertions": 21535,  "deletions": 17143,  "label": "Utilities" },
+    { "component": "crates/common",      "insertions": 12660,  "deletions": 6672,   "label": "Common" },
+    { "component": "crates/shared",      "insertions": 9805,   "deletions": 5878,   "label": "Shared" },
+    { "component": "crates/txpool",      "insertions": 3180,   "deletions": 2851,   "label": "Txpool" },
+    { "component": "bin/consensus",      "insertions": 2896,   "deletions": 1747,   "label": "bin/consensus" },
+    { "component": "bin/prover",         "insertions": 2723,   "deletions": 1902,   "label": "bin/prover" },
+    { "component": "bin/prover-registrar","insertions": 2216,  "deletions": 1612,   "label": "bin/prover-registrar" },
+    { "component": "bin/builder",        "insertions": 1111,   "deletions": 621,    "label": "bin/builder" },
+    { "component": "bin/batcher",        "insertions": 700,    "deletions": 633,    "label": "bin/batcher" }
+  ],
+
+  "major_new_components": [
+    {
+      "name": "base-reth-node",
+      "summary": "New sole execution client built on reth — replacing all other client options.",
+      "path": "bin/base + crates/execution"
+    },
+    {
+      "name": "base-consensus",
+      "summary": "New consensus client built on Kona — faster historical sync, optimized for gigagas/s.",
+      "path": "bin/consensus + crates/consensus"
+    },
+    {
+      "name": "Multiproof system (TEE + ZK)",
+      "summary": "Permissioned AWS Nitro TEE prover + permissionless Succinct SP1 ZK prover. Either type can finalize; agreement collapses withdrawals to as little as 1 day.",
+      "path": "bin/prover + crates/proof + crates/succinct"
+    },
+    {
+      "name": "Challenger",
+      "summary": "Game-monitoring service that challenges invalid proofs in dispute-game contracts.",
+      "path": "bin/challenger"
+    },
+    {
+      "name": "Prover Registrar",
+      "summary": "On-chain TEE attestation + CRL registrar for permissioned proofs.",
+      "path": "bin/prover-registrar"
+    },
+    {
+      "name": "Proposer",
+      "summary": "Rust proposer for proof orchestration and on-chain output submission.",
+      "path": "bin/proposer"
+    },
+    {
+      "name": "Builder + Flashblocks",
+      "summary": "Block builder + flashblock streaming. Empty blocks dropped ~99% (~200/day → ~2/day).",
+      "path": "bin/builder + crates/builder + crates/flashblocks"
+    },
+    {
+      "name": "Batcher",
+      "summary": "Rust batcher with Holocene-aware framing and blob/calldata channel logic.",
+      "path": "bin/batcher + crates/batcher"
+    },
+    {
+      "name": "Ingress RPC + Websocket Proxy",
+      "summary": "Hardened public RPC ingress and back-pressured websocket proxy.",
+      "path": "bin/ingress-rpc + bin/websocket-proxy"
+    },
+    {
+      "name": "basectl + baseup",
+      "summary": "Operator CLI tooling and one-shot installer for node operators.",
+      "path": "bin/basectl + baseup"
+    },
+    {
+      "name": "Audit Archiver",
+      "summary": "Cold-path archiver for audit and witness artifacts.",
+      "path": "bin/audit-archiver"
+    }
+  ],
+
+  "azul_features": [
+    {
+      "name": "Multiproofs",
+      "detail": "TEE + ZK provers combine; either proof type can finalize. Withdrawals as short as 1 day."
+    },
+    {
+      "name": "base-reth-node as sole execution client",
+      "detail": "Standardizes on one execution client (down from multiple)."
+    },
+    {
+      "name": "base-consensus",
+      "detail": "New consensus client with faster historical sync and 1 gigagas/s-oriented optimizations."
+    },
+    {
+      "name": "Ethereum Osaka alignment",
+      "detail": "EIP-7825 (tx gas limits), EIP-7939 (CLZ opcode), EIP-7883 (MODEXP cost), EIP-7823, secp256r1 gas-cost alignment."
+    },
+    {
+      "name": "Smaller Flashblocks payload",
+      "detail": "Reduced websocket payload size to make room for upcoming perf features."
+    }
+  ],
+
+  "comparison_internal_repos": {
+    "ext_base_azul_window": {
+      "label": "ext/base — Feb 18 → v0.9.0 (3 months)",
+      "commits": 1767,
+      "prs": 1575,
+      "insertions": 738634,
+      "deletions": 371319
+    },
+    "ext_base_last_3_months": {
+      "label": "ext/base — Feb 20 → May 20 (3 months)",
+      "commits": 1220,
+      "insertions": 454112,
+      "deletions": 291036
+    },
+    "cb_base_alltime": {
+      "label": "cb/base — all time (since Dec 2022)",
+      "commits": 1355,
+      "prs": 830,
+      "insertions": 364697,
+      "deletions": 300122,
+      "first_commit": "2022-12-05",
+      "duration_years": 3.5
+    },
+    "cb_base_routing_alltime": {
+      "label": "cb/base-routing — all time (since Apr 2023)",
+      "commits": 292,
+      "prs": 157,
+      "insertions": 70249,
+      "deletions": 6574,
+      "first_commit": "2023-04-07",
+      "duration_years": 3.1
+    },
+    "cb_base_combined_alltime": {
+      "label": "cb/base + cb/base-routing — combined, all time",
+      "commits": 1647,
+      "prs": 987,
+      "insertions": 434946,
+      "deletions": 306696
+    }
+  },
+
+  "public_releases": {
+    "base_base": {
+      "label": "github.com/base/base",
+      "release_count": 37,
+      "stable_releases": 34,
+      "prereleases": 3,
+      "first_release": "2025-04-28",
+      "first_release_tag": "v0.1.0",
+      "latest_release": "2026-05-27",
+      "latest_tag": "v0.9.1",
+      "releases_by_year": [
+        { "year": "2025", "releases": 20 },
+        { "year": "2026", "releases": 17 }
+      ]
+    },
+    "base_node": {
+      "label": "github.com/base/node",
+      "release_count": 67,
+      "stable_releases": 64,
+      "prereleases": 3,
+      "first_release": "2023-03-07",
+      "first_release_tag": "v0.0.1",
+      "latest_release": "2026-05-22",
+      "latest_tag": "v0.16.0",
+      "releases_by_year": [
+        { "year": "2023", "releases": 24 },
+        { "year": "2024", "releases": 14 },
+        { "year": "2025", "releases": 23 },
+        { "year": "2026", "releases": 6 }
+      ]
+    },
+    "comparison_note": "base/base shipped 37 azul-era releases in its first ~12 months. base/node shipped 67 substantive releases over 3+ years (excluding 14 recent releases that only bumped the base/base dependency)."
+  },
+
+  "cool_facts": [
+    {
+      "headline": "1.7× the code, in 1/12th the time",
+      "detail": "738K insertions in the Azul push vs. 435K insertions across cb/base + cb/base-routing all-time — more code, in a tiny fraction of the time."
+    },
+    {
+      "headline": "5,000 TPS bursts, sustained",
+      "detail": "The new execution + builder stack has held multiple 5,000-TPS bursts on devnet."
+    },
+    {
+      "headline": "~99% fewer empty blocks",
+      "detail": "Builder + flashblocks work took empty blocks from ~200/day down to ~2/day on Base mainnet."
+    },
+    {
+      "headline": "$250K audit competition",
+      "detail": "Hosted an Immunefi audit competition April 21–May 4, 2026 with a $250,000 reward pool."
+    },
+    {
+      "headline": "35% of all PRs from one engineer",
+      "detail": "Andreas Bigger (@refcell) authored 554 of 1,575 public PRs in the Azul push."
+    }
+  ],
+
+  "launch_context": {
+    "tldr": "You launched a hardfork. Are you not happy? What's there to be happy about.",
+    "release_cadence": "Fortnightly client releases",
+    "audit_competition": {
+      "platform": "Immunefi",
+      "dates": "Apr 21 – May 4, 2026",
+      "reward_pool_usd": 250000
+    },
+    "operator_change": "Node operators migrate to base-consensus + base-reth-node before activation.",
+    "developer_change": "Most apps require no changes. MODEXP-heavy apps, very-large-transaction senders, and direct Flashblocks websocket consumers should review spec changes.",
+    "future_upgrades": [
+      {
+        "name": "Beryl",
+        "target": "June 2026",
+        "features": [
+          "Better tokens — Native ERC-20 Standards",
+          "Faster withdrawals — 7 → 5 days",
+          "Faster nodes — Reth 2.2"
+        ]
+      },
+      {
+        "name": "Cobalt",
+        "target": "August 2026",
+        "features": [
+          "Better UX — Native AA",
+          "…and much more"
+        ]
+      }
+    ]
+  },
+
+  "notes": {
+    "methodology": "ext/base commit/LOC stats from `git log --since=2026-01-01 --until=2026-05-20 --no-merges v0.9.0`. Public PR stats and language LOC from GitHub API + tokei (collected by parallel agent in ../codex-data). Author counts merge multiple emails for the same identity."
+  }
+}
