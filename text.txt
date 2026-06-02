@@ -56,7 +56,7 @@ update README with faucet usage
 add Voting.sol skeleton
 define proposal struct
 implement create proposal
-
+add voting function
 
 
 
