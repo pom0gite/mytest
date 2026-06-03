@@ -61,7 +61,7 @@ integrate token-based voting power
 prevent double voting
 write voting tests
 fix voting edge cases
-
+add proposal deadline logic
 
 
 
