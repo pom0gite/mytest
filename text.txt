@@ -60,7 +60,7 @@ add voting function
 integrate token-based voting power
 prevent double voting
 write voting tests
-
+fix voting edge cases
 
 
 
