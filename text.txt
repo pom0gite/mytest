@@ -59,7 +59,7 @@ implement create proposal
 add voting function
 integrate token-based voting power
 prevent double voting
-
+write voting tests
 
 
 
