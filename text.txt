@@ -62,7 +62,9 @@ prevent double voting
 write voting tests
 fix voting edge cases
 add proposal deadline logic
-
+refactor voting contract
++++
+add Staking.sol skeleton
 
 
 
