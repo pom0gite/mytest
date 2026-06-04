@@ -66,6 +66,7 @@ refactor voting contract
 +++
 add Staking.sol skeleton
 connect staking to ERC20
+implement stake function
 
 
 
