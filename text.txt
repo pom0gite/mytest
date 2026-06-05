@@ -69,6 +69,6 @@ connect staking to ERC20
 implement stake function
 implement unstake function
 add reward calculation
-
+store staking balances
 
 
