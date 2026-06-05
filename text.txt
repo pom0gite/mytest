@@ -70,5 +70,5 @@ implement stake function
 implement unstake function
 add reward calculation
 store staking balances
-
+write staking tests
 
