@@ -73,6 +73,8 @@ store staking balances
 write staking tests
 fix reward calculation bug
 optimize staking logic
+refactor staking contract
+++
 
 
 
