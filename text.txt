@@ -76,7 +76,7 @@ optimize staking logic
 refactor staking contract
 ++
 add global deploy script
-
+deploy token to base testnet
 
 
 
