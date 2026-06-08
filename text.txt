@@ -79,8 +79,8 @@ add global deploy script
 deploy token to base testnet
 deploy NFT contract
 deploy faucet contract
-
-
+deploy voting contract
+deploy staking contract
 
 
 
