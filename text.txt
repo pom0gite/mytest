@@ -78,7 +78,7 @@ refactor staking contract
 add global deploy script
 deploy token to base testnet
 deploy NFT contract
-
+deploy faucet contract
 
 
 
