@@ -81,7 +81,7 @@ deploy NFT contract
 deploy faucet contract
 deploy voting contract
 deploy staking contract
-
+store contract addresses
 
 
 
