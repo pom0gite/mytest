@@ -84,6 +84,8 @@ deploy staking contract
 store contract addresses
 add deployments json file
 verify contracts on basescan
+update README with deployed addresses
++++
 
 
 
