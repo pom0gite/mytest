@@ -86,7 +86,7 @@ add deployments json file
 verify contracts on basescan
 update README with deployed addresses
 +++
-
+add helper scripts for interaction
 
 
 
