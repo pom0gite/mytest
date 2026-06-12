@@ -89,7 +89,7 @@ update README with deployed addresses
 add helper scripts for interaction
 improve error handling
 add events to staking
-
+add events to voting
 
 
 
