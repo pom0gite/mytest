@@ -98,7 +98,7 @@ update documentation
 prepare project summary
 ++
 final contract review
-
+gas optimization pass
 
 
 
