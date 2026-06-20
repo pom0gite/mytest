@@ -104,7 +104,7 @@ improve README structure
 add usage examples
 add deployment guide
 final test run
-
+fix last issues
 
 
 
