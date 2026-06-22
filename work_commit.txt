@@ -1,5 +1,7 @@
 Add token transfer requirements
 Update token supply notes
+Add token distribution plan
+
 
 
 
