@@ -4,7 +4,7 @@ Add token distribution plan
 Improve token documentation
 Add transfer examples
 Update token economics section
-
+Add holder benefits description
 
 
 
