@@ -8,6 +8,9 @@ Add holder benefits description
 Improve token architecture notes
 Add token lifecycle details
 Review token implementation ideas
+----------------------
+Add NFT collection overview
+
 
 
 
