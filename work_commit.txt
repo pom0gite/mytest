@@ -10,7 +10,7 @@ Add token lifecycle details
 Review token implementation ideas
 ----------------------
 Add NFT collection overview
-
+Update NFT metadata notes
 
 
 
