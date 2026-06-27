@@ -12,7 +12,7 @@ Review token implementation ideas
 Add NFT collection overview
 Update NFT metadata notes
 Add NFT minting workflow
-
+Improve NFT documentation
 
 
 
