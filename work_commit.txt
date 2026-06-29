@@ -15,4 +15,4 @@ Add NFT minting workflow
 Improve NFT documentation
 Add NFT ownership examples
 Expand NFT utility section
-
+Update collection structure
