@@ -18,7 +18,9 @@ Expand NFT utility section
 Update collection structure
 Add NFT roadmap items
 Improve NFT design notes
-
+Review NFT feature list
+++++
+Add faucet distribution rules
 
 
 
