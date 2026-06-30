@@ -17,7 +17,7 @@ Add NFT ownership examples
 Expand NFT utility section
 Update collection structure
 Add NFT roadmap items
-
+Improve NFT design notes
 
 
 
