@@ -21,7 +21,7 @@ Improve NFT design notes
 Review NFT feature list
 ++++
 Add faucet distribution rules
-
+Update faucet usage notes
 
 
 
