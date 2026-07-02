@@ -24,7 +24,7 @@ Add faucet distribution rules
 Update faucet usage notes
 Improve faucet documentation
 Add faucet claim examples
-
+Expand faucet security section
 
 
 
