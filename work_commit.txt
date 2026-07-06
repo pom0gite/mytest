@@ -29,6 +29,8 @@ Add faucet limitations
 Improve faucet workflow
 Update faucet roadmap
 Add faucet maintenance notes
+Review faucet logic assumptions
++++
 
 
 
