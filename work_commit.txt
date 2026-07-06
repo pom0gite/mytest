@@ -31,7 +31,7 @@ Update faucet roadmap
 Add faucet maintenance notes
 Review faucet logic assumptions
 +++
-
+Add proposal creation notes
 
 
 
