@@ -33,7 +33,7 @@ Review faucet logic assumptions
 +++
 Add proposal creation notes
 Update voting process description
-
+Improve governance documentation
 
 
 
