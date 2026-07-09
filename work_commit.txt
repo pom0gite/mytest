@@ -38,7 +38,7 @@ Add proposal examples
 Expand voting requirements
 Add governance roadmap
 Improve proposal lifecycle notes
-
+Update voting participation guide
 
 
 
