@@ -43,7 +43,7 @@ Add governance considerations
 Review voting feature scope
 --------
 Add staking overview section
-
+Update staking reward notes
 
 
 
