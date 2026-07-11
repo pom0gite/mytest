@@ -41,7 +41,8 @@ Improve proposal lifecycle notes
 Update voting participation guide
 Add governance considerations
 Review voting feature scope
-
+--------
+Add staking overview section
 
 
 
