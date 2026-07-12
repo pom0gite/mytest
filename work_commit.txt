@@ -44,7 +44,7 @@ Review voting feature scope
 --------
 Add staking overview section
 Update staking reward notes
-
+Improve staking documentation
 
 
 
