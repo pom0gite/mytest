@@ -49,7 +49,7 @@ Add staking examples
 Expand reward calculation ideas
 Add staking roadmap
 Improve staking workflow notes
-
+Update staking requirements
 
 
 
