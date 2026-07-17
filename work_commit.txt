@@ -54,7 +54,7 @@ Add staking security considerations
 Review staking feature list
 +++
 Add deployment checklist draft
-
+Update deployment documentation
 
 
 
