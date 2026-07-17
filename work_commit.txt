@@ -53,7 +53,7 @@ Update staking requirements
 Add staking security considerations
 Review staking feature list
 +++
-
+Add deployment checklist draft
 
 
 
