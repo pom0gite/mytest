@@ -57,6 +57,21 @@ Add deployment checklist draft
 Update deployment documentation
 Add deployment environment notes
 Improve deployment workflow
+Add testnet preparation notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
