@@ -61,7 +61,7 @@ Add testnet preparation notes
 Expand deployment requirements
 Update deployment roadmap
 Add deployment verification steps
-
+Improve deployment structure
 
 
 
