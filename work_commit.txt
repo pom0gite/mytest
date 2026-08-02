@@ -69,7 +69,7 @@ Update testing documentation
 Add contract testing checklist
 Improve testing workflow
 Add edge case examples
-
+Expand test coverage notes
 
 
 
