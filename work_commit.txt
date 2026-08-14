@@ -82,7 +82,7 @@ Improve security checklist
 Add contract audit preparation
 Expand security considerations
 Update security roadmap
-
+Add vulnerability review note
 
 
 
