@@ -89,7 +89,7 @@ Review security requirements
 Add project documentation index
 Update documentation structure
 Improve README navigation
-
+Add architecture summary
 
 
 
