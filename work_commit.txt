@@ -108,3 +108,24 @@ Improve project presentation
 Prepare repository for review
 Final project documentation update
 +++
+Add project architecture overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
