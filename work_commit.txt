@@ -110,7 +110,7 @@ Final project documentation update
 +++
 Add project architecture overview
 Create contracts directory
-
+Add initial Solidity configuration
 
 
 
