@@ -112,7 +112,7 @@ Add project architecture overview
 Create contracts directory
 Add initial Solidity configuration
 Define supported Solidity version
-
+Add development requirements
 
 
 
