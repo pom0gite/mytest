@@ -114,7 +114,7 @@ Add initial Solidity configuration
 Define supported Solidity version
 Add development requirements
 Document local setup process
-
+Add project folder structure
 
 
 
