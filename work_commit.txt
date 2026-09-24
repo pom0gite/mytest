@@ -119,7 +119,7 @@ Document Base network configuration
 Add development workflow notes
 Update project setup documentation
 ///////////
-
+Add token state variables
 
 
 
