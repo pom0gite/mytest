@@ -120,7 +120,7 @@ Add development workflow notes
 Update project setup documentation
 ///////////
 Add token state variables
-
+Add token balance mapping
 
 
 
