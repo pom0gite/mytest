@@ -121,7 +121,7 @@ Update project setup documentation
 ///////////
 Add token state variables
 Add token balance mapping
-
+Implement token transfer function
 
 
 
