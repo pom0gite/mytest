@@ -123,7 +123,7 @@ Add token state variables
 Add token balance mapping
 Implement token transfer function
 Add transfer validation
-
+Add token transfer event
 
 
 
