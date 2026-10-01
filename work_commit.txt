@@ -125,7 +125,7 @@ Implement token transfer function
 Add transfer validation
 Add token transfer event
 Add minting function
-
+Restrict token minting access
 
 
 
