@@ -126,7 +126,7 @@ Add transfer validation
 Add token transfer event
 Add minting function
 Restrict token minting access
-
+Add burn functionality
 
 
 
