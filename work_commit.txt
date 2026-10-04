@@ -128,5 +128,21 @@ Add minting function
 Restrict token minting access
 Add burn functionality
 Add supply tracking
+Review token contract structure
+////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
