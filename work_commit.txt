@@ -131,7 +131,7 @@ Add supply tracking
 Review token contract structure
 ////////////
 Define NFT collection parameters
-
+Add NFT ownership mapping
 
 
 
