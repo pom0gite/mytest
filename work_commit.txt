@@ -132,7 +132,7 @@ Review token contract structure
 ////////////
 Define NFT collection parameters
 Add NFT ownership mapping
-
+Implement NFT minting
 
 
 
