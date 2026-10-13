@@ -137,7 +137,7 @@ Add token ID tracking
 Add NFT transfer logic
 Add metadata URI support
 Add collection metadata
-
+Restrict NFT administration
 
 
 
