@@ -141,7 +141,7 @@ Restrict NFT administration
 Add minting validation
 Review NFT contract structure
 --------------
-
+Define faucet token amount
 
 
 
