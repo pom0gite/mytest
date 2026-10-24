@@ -142,7 +142,7 @@ Add minting validation
 Review NFT contract structure
 --------------
 Define faucet token amount
-
+Add faucet claim function
 
 
 
