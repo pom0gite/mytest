@@ -144,6 +144,6 @@ Review NFT contract structure
 Define faucet token amount
 Add faucet claim function
 Add claim eligibility check
-
+Add cooldown tracking
 
 
