@@ -145,5 +145,14 @@ Define faucet token amount
 Add faucet claim function
 Add claim eligibility check
 Add cooldown tracking
+Prevent repeated claims
+
+
+
+
+
+
+
+
 
 
