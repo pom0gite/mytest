@@ -148,7 +148,7 @@ Add cooldown tracking
 Prevent repeated claims
 Add faucet withdrawal function
 Restrict faucet administration
-
+Add claim event
 
 
 
