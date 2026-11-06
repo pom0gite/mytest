@@ -150,6 +150,8 @@ Add faucet withdrawal function
 Restrict faucet administration
 Add claim event
 Add faucet balance check
+Review faucet security assumptions
+----------------
 
 
 
