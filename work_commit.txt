@@ -152,7 +152,7 @@ Add claim event
 Add faucet balance check
 Review faucet security assumptions
 ----------------
-
+Define proposal structure
 
 
 
