@@ -153,7 +153,7 @@ Add faucet balance check
 Review faucet security assumptions
 ----------------
 Define proposal structure
-
+Add proposal storage
 
 
 
